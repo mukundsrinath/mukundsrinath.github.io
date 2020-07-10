@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mukund Srinath"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              :
   location         : "University Park, PA"
   employer         :
@@ -215,9 +215,9 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -233,17 +233,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: true
-      share: true
-      comment: true
+      author_profile: false
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 # Sass/SCSS
 sass:
@@ -296,7 +296,7 @@ tag_archive:
 #     - categories
 #     - tags
 #   layouts:
-#     category: archive-taxonomy
+#     category: archive-taxonomy/
 #     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
