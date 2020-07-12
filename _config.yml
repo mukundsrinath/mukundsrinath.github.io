@@ -83,11 +83,11 @@ author:
   name             : "Mukund Srinath"
   avatar           : "profile.jpg"
   bio              :
-  location         : "University Park, PA"
+  location         : #"University Park, PA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-1l0pUIAAAAJ&hl=en&oi=ao"
-  email            :
+  email            : "mus824@psu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
