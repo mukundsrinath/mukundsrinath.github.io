@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Privacy at Scale:  Introducing the PrivaSeer Corpus of Web Privacy Policies.](https://arxiv.org/abs/2004.11131)<br>
+<b>Mukund Srinath</b>, Shomir Wilson, C. Lee Giles
+ArXiv, 2020
+
+[Convolutional Neural Network and Question Generation Based Approaches to Select Best Answers for Non-Factoid Questions.](https://etda.libraries.psu.edu/catalog/16516mus824)<br>
+<b>Mukund Srinath</b>
+Master's thesis, Pennsylvania State University, 2019
+
+
