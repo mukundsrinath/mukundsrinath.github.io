@@ -16,7 +16,7 @@ author_profile: true
 ArXiv, 2020
 
 [Convolutional Neural Network and Question Generation Based Approaches to Select Best Answers for Non-Factoid Questions.](https://etda.libraries.psu.edu/catalog/16516mus824)<br>
-<b>Mukund Srinath</b><br>  
+<b>Mukund Srinath</b><br>
 Master's thesis, Pennsylvania State University, 2019
 
 
