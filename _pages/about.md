@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mukund
+I am a second year PhD student in the college of Information Sciences and Technilogy at Pennsylvania State University. I work in the Intelligent Information System Lab headed by [Dr. Lee Giles](http://clgiles.ist.psu.edu/) and in the Human Language Technologies Lab headed by [Dr. Shomir Wilson](https://shomir.net/).  
+
+My research interests lie in the field of natural language processing and information retrieval. I am currently working on analysis and simplification of website privacy policies. 
