@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Privacy at Scale:  Introducing the PrivaSeer Corpus of Web Privacy Policies.](https://arxiv.org/abs/2004.11131)<br>
+[Privacy at Scale:  Introducing the PrivaSeer Corpus of Web Privacy Policies.](https://aclanthology.org/2021.acl-long.532/)<br>
 <b>Mukund Srinath</b>, Shomir Wilson, C. Lee Giles<br>
 ACL, 2021
 
@@ -22,7 +22,7 @@ ICWE, 2021
 [Privacy Not Found: A Study of the Availability of Privacy Policies on the Web](https://www.usenix.org/conference/soups2020/presentation/sundareswara)<br>
 Soundarya Sundareswara, Shomir Wilson, <b>Mukund Srinath</b>, C. Lee Giles<br>
 SOUPS, 2020
-(poster, unpublished)
+(poster)
 
 [Convolutional Neural Network and Question Generation Based Approaches to Select Best Answers for Non-Factoid Questions.](https://etda.libraries.psu.edu/catalog/16516mus824)<br>
 <b>Mukund Srinath</b><br>
