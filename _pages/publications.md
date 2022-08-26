@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+[A Study of Implicit Language Model Bias Against People With Disabilities]()<br>
+Pranav Venkit, <b>Mukund Srinath</b>, Shomir Wilson<br>
+COLING, 2022
+
 [Privacy at Scale:  Introducing the PrivaSeer Corpus of Web Privacy Policies.](https://aclanthology.org/2021.acl-long.532/)<br>
 <b>Mukund Srinath</b>, Shomir Wilson, C. Lee Giles<br>
 ACL, 2021
