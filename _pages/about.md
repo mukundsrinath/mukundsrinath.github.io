@@ -1,4 +1,4 @@
----
+--
 permalink: /
 title: "About Me"
 excerpt: "About me"
@@ -16,6 +16,6 @@ My research interests lie in the field of natural language processing and inform
 
 <b>August, 2022:</b> Our paper *A Study of Implicit Language Model Bias Against People With Disabilities* was accepted at **COLING** 2022
 
-<b>May, 2022:</b> I started interning at [Trustpage](https://trustpage.com/) as a machine learning intern and worked on question answering and semantic similarity problems.  
+<b>May, 2022:</b> I started working at [Trustpage](https://trustpage.com/) as a machine learning intern and worked on question answering and semantic similarity problems.  
 
-
+<b>April, 2022</b> PhD milestone cleared: Comprehensive examination. I am now ABD!
