@@ -11,13 +11,23 @@ author_profile: true
 
 {% include base_path %}
 
-[Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability]()<br>
-<b>Mukund Srinath</b>, Soundarya Sundareswara, Pranav Venkit, C. Lee Giles, Shomir Wilson
+[Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities]()<br>
+Abraham Mhaidli, Selin Fidan, An Doan, Gina Herakovic, Mukund Srinath, Lee Matheson, Shomir Wilson, Florian Schaub <br>
+<b>Best Paper</b> <br>
+PETS, 2023
+
+[Privacy Now or Never: Large-Scale Extraction and Analysis of Dates in Privacy Policy Text]()<br>
+Mukund Srinath, Lee Matheson, Pranav Venkit, Florian Schaub, Gabriela Zanfir-Fortuna, C. Lee Giles and Shomir Wilson <br>
 *In Press*<br>
 DocEng, 2023
 
-[Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models]() <br>
-*In Press* <br>
+[Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability]()<br>
+<b>Mukund Srinath</b>, Soundarya Sundareswara, Pranav Venkit, C. Lee Giles, Shomir Wilson <br>
+*In Press*<br>
+DocEng, 2023
+
+[Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models](https://aclanthology.org/2023.trustnlp-1.3.pdf) <br>
+<b>Best Paper</b> <br>
 Pranav Venkit, <b>Mukund Srinath</b>, Shomir Wilson<br>
 TrustNLP Workshop, ACL, 2023
 
