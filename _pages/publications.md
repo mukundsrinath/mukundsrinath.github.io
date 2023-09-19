@@ -19,7 +19,6 @@ DocEng, 2023
 
 [Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability](https://dl.acm.org/doi/abs/10.1145/3573128.3604902)<br>
 <b>Mukund Srinath</b>, Soundarya Sundareswara, Pranav Venkit, C. Lee Giles, Shomir Wilson <br>
-<br>
 DocEng, 2023
 
 [Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities](https://petsymposium.org/popets/2023/popets-2023-0111.pdf)<br>
