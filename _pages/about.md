@@ -19,9 +19,11 @@ redirect_from:
 
 ## News
 
+<b>August, 2023:</b> Our paper *Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability* won the **best paper** at **DocENG** 2023!
+
 <b>July, 2023:</b> We started a blog called [Beyond Words and Algorithms](https://medium.com/@nlphci.phd) where we share our research insights on ML and HCI.
 
-<b>July, 2023:<b> Our paper *Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities* won the best paper at **PETS** 2023!
+<b>July, 2023:</b> Our paper *Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities* won the best paper at **PETS** 2023!
 
 <b>July, 2023:</b> Our paper *Privacy Now or Never: Large-Scale Extraction and Analysis of
 Dates in Privacy Policy Text* was accepted at **DocENG** 2023.
