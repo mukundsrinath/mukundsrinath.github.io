@@ -7,12 +7,10 @@ author_profile: true
 #   - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[AI is (not) coming for your Job!](https://medium.com/@nlphci.phd/ai-is-not-coming-for-your-job-e9658ea7dd17)</b>
+14th August, 2023
+Why the AI revolution is not going to take away your job.
+
+<b>[Unfinished](https://medium.com/@nlphci.phd/unfinished-2101200b8900)</b>
+24th July, 2023
+All the projects that I have completed and all the ones that are still unfinished in my PhD. 

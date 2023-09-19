@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=-1l0pUIAAAAJ&hl=en&oi=ao"
-  email            : "mus824@psu.edu"
+  email            : "mukund.srina@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -122,6 +122,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
