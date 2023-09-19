@@ -7,10 +7,14 @@ author_profile: true
 #   - /wordpress/blog-posts/
 ---
 
-<b>[AI is (not) coming for your Job!](https://medium.com/@nlphci.phd/ai-is-not-coming-for-your-job-e9658ea7dd17)</b>
-14th August, 2023
+<b>[Unfinished](https://medium.com/@nlphci.phd/unfinished-2101200b8900)</b><br>
+24th July, 2023<br>
+All the projects that I have completed and all the ones that are still unfinished in my PhD. 
+
+<br>
+<br>
+<b>[AI is (not) coming for your Job!](https://medium.com/@nlphci.phd/ai-is-not-coming-for-your-job-e9658ea7dd17)</b> <br>
+14th August, 2023 <br>
 Why the AI revolution is not going to take away your job.
 
-<b>[Unfinished](https://medium.com/@nlphci.phd/unfinished-2101200b8900)</b>
-24th July, 2023
-All the projects that I have completed and all the ones that are still unfinished in my PhD. 
+
