@@ -10,7 +10,10 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+[The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.848.pdf)<br>
+<b>Mukund Srinath</b>*, Pranav Venkit*, Sanjana Gautam, Vipul Gupta, Rebecca Passonneau, Shomir Wilson
+<span style="color:red"><b>Outstanding Paper</b></span> <br>
+EMNLP, 2023
 
 [Privacy Now or Never: Large-Scale Extraction and Analysis of Dates in Privacy Policy Text](https://dl.acm.org/doi/abs/10.1145/3573128.3609342)<br>
 <b>Mukund Srinath</b>, Lee Matheson, Pranav Venkit, Florian Schaub, Gabriela Zanfir-Fortuna, C. Lee Giles and Shomir Wilson <br>

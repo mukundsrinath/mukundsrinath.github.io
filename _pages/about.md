@@ -18,6 +18,10 @@ redirect_from:
 
 
 ## News
+<div style="font-size: 10px">
+<b>December 2023:</b> Our paper [The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.848.pdf) won the outstanding paper award at **EMNLP** 2023!
+
+<b>December 2023:</b> I'll be at **EMNLP** 2023 in Singapore. Come say hi!
 
 <b>August, 2023:</b> Our paper *Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability* won the **best paper** at **DocENG** 2023!
 
@@ -43,5 +47,5 @@ Dates in Privacy Policy Text* was accepted at **DocENG** 2023.
 <b>May, 2022:</b> I started working at [Trustpage](https://trustpage.com/) as a machine learning intern and worked on question answering and semantic similarity problems.  
 
 <b>April, 2022:</b> PhD milestone cleared: Comprehensive examination. I am now ABD!
-
+</div>
 
