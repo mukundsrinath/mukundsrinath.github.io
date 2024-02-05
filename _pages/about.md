@@ -18,21 +18,26 @@ redirect_from:
 
 ## News
 
+### 2024
 
-#### 2023
+I was selected to be a [Liberatory Tech Scholar](https://logicmag.io/thicc-fellows/)!! 🎉
 
-Our paper [The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.848.pdf) won the 🏆 **outstanding paper award** 🏆 at **EMNLP** 2023!
+🏆 I was the out-of-the-box winner of the [bias-a-thon](https://csrai.psu.edu/initiatives/bias-a-thon) competition conducted by the Center for Socially Responsible Artificial Intelligence.
 
-Our paper *Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability* won the 🏆 **best student paper** 🏆 at **DocENG** 2023!
+### 2023
+
+🏆 Our paper [The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.848.pdf) won the **outstanding paper award** at **EMNLP** 2023!
+
+🏆 Our paper *Privacy Lost and Found: An Investigation at Scale of Web Privacy Policy Availability* won the **best student paper** at **DocENG** 2023!
 
 We started a blog called [Beyond Words and Algorithms](https://medium.com/@nlphci.phd) where we share our research insights on ML and HCI.
 
-Our paper *Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities* won the 🏆 **best student paper** 🏆 at **PETS** 2023!
+🏆 Our paper *Researchers’ Experiences in Analyzing Privacy Policies: Challenges and Opportunities* won the **best student paper** at **PETS** 2023!
 
-Our paper *Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models* at **ACL** 2023 won the 🏆 **best paper award** 🏆!
+🏆 Our paper *Automated Ableism: An Exploration of Explicit Disability Biases in Sentiment and Toxicity Analysis Models* at **ACL** 2023 won the  **best paper award**!
 
 
-#### 2022
+### 2022
 
 Our paper *A Study of Implicit Language Model Bias Against People With Disabilities* was accepted at **COLING** 2022.
 
