@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 [The Sentiment Problem: A Critical Survey towards Deconstructing Sentiment Analysis](https://aclanthology.org/2023.emnlp-main.848.pdf)<br>
-<b>Mukund Srinath</b>*, Pranav Venkit*, Sanjana Gautam, Vipul Gupta, Rebecca Passonneau, Shomir Wilson
+<b>Mukund Srinath</b>*, Pranav Venkit*, Sanjana Gautam, Vipul Gupta, Rebecca Passonneau, Shomir Wilson <br>
 <span style="color:red"><b>Outstanding Paper</b></span> <br>
 EMNLP, 2023
 
